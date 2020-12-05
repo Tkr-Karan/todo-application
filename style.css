@@ -1,0 +1,28 @@
+.ind{
+    text-align: center;
+    background-color: burlywood;
+    padding-bottom: 30px;
+    margin: 0 150px;
+    border-radius: 15px;
+}
+
+
+.contain h1{
+    color: crimson;
+}
+
+
+
+.btn{
+    border-radius: 5px;
+}
+
+#addmsg{
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.user{
+    text-align: left;
+    list-style-type: decimal;
+}
